@@ -11,6 +11,7 @@
     <modules>
         <module>org.javacream.calculator.service</module>
         <module>org.javacream.calculator.actor</module>
+        <module>org.javacream.upgrade.language</module>
     </modules>
     <dependencies>
         <dependency>

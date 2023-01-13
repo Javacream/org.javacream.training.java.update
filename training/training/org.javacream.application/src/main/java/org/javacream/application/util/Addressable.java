@@ -24,6 +24,7 @@ public interface Addressable {
 
     default Optional<Address> getNormalizedAddress(){
         var optionalAddress = getAddress();
+
         if (optionalAddress.isPresent()){
             var address = optionalAddress.get();
             var normalizedAddress = new Address(address.getPostalCode(), normalize(address.getStreet()));

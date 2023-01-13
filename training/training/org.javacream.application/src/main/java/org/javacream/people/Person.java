@@ -4,15 +4,18 @@ import org.javacream.application.util.Address;
 import org.javacream.application.util.Addressable;
 
 import java.util.Objects;
+import java.util.Optional;
 
 public class Person implements Addressable {
     private String lastname;
     private String firstname;
 
     private Address address;
+    private Optional<Address> optionalAddress;
 
     @Override
     public String toString() {
+        optionalAddress.
         return "Person{" +
                 "lastname='" + lastname + '\'' +
                 ", firstname='" + firstname + '\'' +

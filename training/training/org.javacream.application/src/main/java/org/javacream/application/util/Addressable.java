@@ -1,5 +1,6 @@
 package org.javacream.application.util;
 
+@FunctionalInterface
 public interface Addressable {
     Address getAddress();
     default String getStreet(){

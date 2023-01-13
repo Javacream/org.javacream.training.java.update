@@ -9,7 +9,7 @@
 * Day 1
   * 9:00 - 16:15
   * coffee breaks 10:30 - 10:45 and 14:30 - 14:45
-  * lunch 12:15 - 13:00v
+  * lunch 12:15 - 13:00
 * Day 2
   * 8:00 - 15:00
   * coffee break 10:00 - 10:15

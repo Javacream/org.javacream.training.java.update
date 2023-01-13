@@ -4,10 +4,11 @@ import org.javacream.application.util.Address;
 import org.javacream.application.util.Addressable;
 
 import java.util.Objects;
+import java.util.Optional;
 
 public class Company implements Addressable {
     private String name;
-    private Address address;
+    private Optional<Address> address;
 
     @Override
     public String toString() {
@@ -30,7 +31,7 @@ public class Company implements Addressable {
         return Objects.hash(name, address);
     }
 
-    public void setAddress(Address address) {
+    public void setAddress(Optional<Address> address) {
         this.address = address;
     }
 
@@ -38,11 +39,11 @@ public class Company implements Addressable {
         return name;
     }
 
-    public Address getAddress() {
+    public Optional<Address> getAddress() {
         return address;
     }
 
-    public Company(String name, Address address) {
+    public Company(String name, Optional<Address> address) {
         this.name = name;
         this.address = address;
     }

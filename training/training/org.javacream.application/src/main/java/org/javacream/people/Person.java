@@ -10,18 +10,16 @@ public class Person implements Addressable {
     private String lastname;
     private String firstname;
 
-    private Address address;
-    private Optional<Address> optionalAddress;
-
     @Override
     public String toString() {
-        optionalAddress.
         return "Person{" +
                 "lastname='" + lastname + '\'' +
                 ", firstname='" + firstname + '\'' +
                 ", address=" + address +
                 '}';
     }
+
+    private Optional<Address> address;
 
     @Override
     public boolean equals(Object o) {
@@ -37,7 +35,10 @@ public class Person implements Addressable {
     }
 
     public void setAddress(Address address) {
-        this.address = address;
+        this.address = Optional.of(address);
+    }
+    public void removeAddress() {
+        this.address = Optional.empty();
     }
 
     public String getLastname() {
@@ -49,13 +50,18 @@ public class Person implements Addressable {
     }
 
     @Override
-    public Address getAddress() {
+    public Optional<Address> getAddress() {
         return address;
     }
 
     public Person(String lastname, String firstname, Address address) {
         this.lastname = lastname;
         this.firstname = firstname;
-        this.address = address;
+        this.address = Optional.of(address);
+    }
+    public Person(String lastname, String firstname) {
+        this.lastname = lastname;
+        this.firstname = firstname;
+        this.address = Optional.empty();
     }
 }

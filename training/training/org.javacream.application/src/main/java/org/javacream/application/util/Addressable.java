@@ -1,23 +1,46 @@
 package org.javacream.application.util;
 
+import java.util.Optional;
+
 @FunctionalInterface
 public interface Addressable {
-    Address getAddress();
-    default String getStreet(){
-        return getAddress().getStreet();
+    Optional<Address> getAddress();
+    default Optional<String> getStreet(){
+        var optionalAddress = getAddress();
+        if (optionalAddress.isPresent()){
+            return Optional.of(optionalAddress.get().getStreet());
+        }else{
+            return Optional.empty();
+        }
     }
-    default Integer getPostalCode(){
-        return getAddress().getPostalCode();
+    default Optional<Integer> getPostalCode(){
+        var optionalAddress = getAddress();
+        if (optionalAddress.isPresent()){
+            return Optional.of(optionalAddress.get().getPostalCode());
+        }else{
+            return Optional.empty();
+        }
     }
 
-    default Address getNormalizedAddress(){
-        var address = getAddress();
-        var normalizedAddress = new Address(address.getPostalCode(), normalize(address.getStreet()));
-        return normalizedAddress;
+    default Optional<Address> getNormalizedAddress(){
+        var optionalAddress = getAddress();
+        if (optionalAddress.isPresent()){
+            var address = optionalAddress.get();
+            var normalizedAddress = new Address(address.getPostalCode(), normalize(address.getStreet()));
+            return Optional.of(normalizedAddress);
+        }
+        else{
+            return Optional.empty();
+        }
     }
-    default String getNormalizedStreet(){
-        var address = getAddress();
-        return normalize(address.getStreet());
+    default Optional<String> getNormalizedStreet(){
+        var optionalAddress = getAddress();
+        if (optionalAddress.isPresent()){
+            return Optional.of(normalize(optionalAddress.get().getStreet()));
+        }
+        else{
+            return Optional.empty();
+        }
     }
 
     private String normalize(String s){

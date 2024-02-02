@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;jj.mod.delta.Gamma&apos; to &apos;Delta&apos;&#x0D;&#x0A;- Original project: &apos;x0303-jpms-opens-mod&apos;&#x0D;&#x0A;- Original element: &apos;jj.mod.delta.Gamma&apos;&#x0D;&#x0A;- Renamed element: &apos;jj.mod.delta.Delta&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Gamma&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;jj.mod.delta{Gamma.java[Gamma" matchStrategy="1" name="Delta" qualified="false" references="true" similarDeclarations="false" stamp="1553789369436" textual="false" version="1.0"/>
+</session>

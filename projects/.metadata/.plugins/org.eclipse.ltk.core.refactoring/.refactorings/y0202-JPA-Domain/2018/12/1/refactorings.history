@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;jj.appl.domain&apos; to &apos;jj.domain&apos;&#x0D;&#x0A;- Original project: &apos;y0202-JPA-Domain&apos;&#x0D;&#x0A;- Original element: &apos;y0202-JPA-Domain/src/jj.appl.domain&apos;&#x0D;&#x0A;- Renamed element: &apos;y0202-JPA-Domain/src/jj.domain&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;jj.appl.domain&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;jj.appl.domain" name="jj.domain" qualified="false" references="true" stamp="1546265813644" textual="false" version="1.0"/>
+</session>

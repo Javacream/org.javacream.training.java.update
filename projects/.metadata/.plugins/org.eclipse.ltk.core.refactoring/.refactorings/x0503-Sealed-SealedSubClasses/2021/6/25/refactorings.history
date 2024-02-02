@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Statement.java&apos; to &apos;x2104-Sealed-NonSealedSubclasses/src/appl&apos;&#x0D;&#x0A;- Original project: &apos;x2103-Sealed-SealedSubClasses&apos;&#x0D;&#x0A;- Destination element: &apos;x2104-Sealed-NonSealedSubclasses/src/appl&apos;&#x0D;&#x0A;- Original element: &apos;appl.Statement.java&apos;" description="Copy compilation unit" destination="=x2104-Sealed-NonSealedSubclasses/src&lt;appl" element1="/src&lt;appl{Statement.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1624540352611" units="1" version="1.0"/>
+</session>

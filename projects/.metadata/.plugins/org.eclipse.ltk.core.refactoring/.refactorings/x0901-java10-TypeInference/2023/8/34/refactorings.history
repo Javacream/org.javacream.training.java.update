@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;jj.appl&apos; to &apos;x0201-Language-TypeInference/src&apos;&#x0D;&#x0A;- Original project: &apos;x0901-java10-TypeInference&apos;&#x0D;&#x0A;- Destination element: &apos;x0201-Language-TypeInference/src&apos;&#x0D;&#x0A;- Original element: &apos;x0901-java10-TypeInference/src/jj.appl&apos;" description="Copy package" destination="=x0201-Language-TypeInference/src" element1="/src&lt;jj.appl" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1693034405809" version="1.0"/>
+</session>

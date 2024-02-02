@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move package &apos;jj.json.scanner.test&apos; to &apos;z0307-Json-Test/src&apos;&#x0D;&#x0A;- Original project: &apos;z0302-Json-Scanner&apos;&#x0D;&#x0A;- Destination element: &apos;z0307-Json-Test/src&apos;&#x0D;&#x0A;- Original element: &apos;z0302-Json-Scanner/src/jj.json.scanner.test&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move package" destination="=z0307-Json-Test/src" element1="/src&lt;jj.json.scanner.test" flags="589830" fragments="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1546097941884" version="1.0"/>
+</session>

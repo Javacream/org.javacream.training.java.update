@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;appl.MathResult&apos; to &apos;MinMax&apos;&#x0D;&#x0A;- Original project: &apos;x2015-RecordClasses-Example-MinMax&apos;&#x0D;&#x0A;- Original element: &apos;appl.MathResult&apos;&#x0D;&#x0A;- Renamed element: &apos;appl.MinMax&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;MathResult&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;appl{MathResult.java[MathResult" matchStrategy="1" name="MinMax" qualified="false" references="true" similarDeclarations="false" stamp="1604918276152" textual="false" version="1.0"/>
+</session>

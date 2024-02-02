@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;jj.appl.MySubscriber&apos; to &apos;MySpecialSubscriber&apos;&#x0D;&#x0A;- Original project: &apos;x0702-flow-requests&apos;&#x0D;&#x0A;- Original element: &apos;jj.appl.MySubscriber&apos;&#x0D;&#x0A;- Renamed element: &apos;jj.appl.MySpecialSubscriber&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;MySubscriber&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;jj.appl{MySubscriber.java[MySubscriber" matchStrategy="1" name="MySpecialSubscriber" qualified="false" references="true" similarDeclarations="false" stamp="1511109855149" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;jj.modA.alpha&apos; to &apos;jj.mod&apos;&#x0D;&#x0A;- Original project: &apos;a0105-jpms-differentPackages-modA&apos;&#x0D;&#x0A;- Original element: &apos;a0105-jpms-differentPackages-modA/src/jj.modA.alpha&apos;&#x0D;&#x0A;- Renamed element: &apos;a0105-jpms-differentPackages-modA/src/jj.mod&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;jj.modA.alpha&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;jj.modA.alpha" name="jj.mod" qualified="false" references="true" stamp="1546362279540" textual="false" version="1.0"/>
+</session>

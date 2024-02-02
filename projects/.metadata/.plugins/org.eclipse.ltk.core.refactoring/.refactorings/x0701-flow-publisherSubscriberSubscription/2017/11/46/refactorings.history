@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;MySubscriber.java&apos; to &apos;x0701-flow-publisherSubscriberSubscription3/src/jj.appl&apos;&#x0D;&#x0A;- Original project: &apos;x0701-flow-publisherSubscriberSubscription&apos;&#x0D;&#x0A;- Destination element: &apos;x0701-flow-publisherSubscriberSubscription3/src/jj.appl&apos;&#x0D;&#x0A;- Original element: &apos;jj.appl.MySubscriber.java&apos;" description="Copy compilation unit" destination="=x0701-flow-publisherSubscriberSubscription3/src&lt;jj.appl" element1="/src&lt;jj.appl{MySubscriber.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1511107594996" units="1" version="1.0"/>
+</session>

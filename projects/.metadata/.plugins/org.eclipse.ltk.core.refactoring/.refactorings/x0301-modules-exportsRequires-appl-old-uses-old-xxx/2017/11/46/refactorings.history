@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;jj.appl&apos; to &apos;x0301-modules-exportsRequires-appl-old-uses-old/src&apos;&#x0D;&#x0A;- Original project: &apos;x0301-modules-exportsRequires-appl-old-uses-old-xxx&apos;&#x0D;&#x0A;- Destination element: &apos;x0301-modules-exportsRequires-appl-old-uses-old/src&apos;&#x0D;&#x0A;- Original element: &apos;x0301-modules-exportsRequires-appl-old-uses-old-xxx/src/jj.appl&apos;" description="Copy package" destination="=x0301-modules-exportsRequires-appl-old-uses-old/src" element1="/src&lt;jj.appl" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1511090388482" version="1.0"/>
+</session>

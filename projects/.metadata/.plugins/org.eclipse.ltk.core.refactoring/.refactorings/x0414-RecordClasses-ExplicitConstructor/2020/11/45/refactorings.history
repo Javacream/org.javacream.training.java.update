@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 4 elements from project &apos;x2014-RecordClasses-ExplicitConstructor&apos;&#x0D;&#x0A;- Original project: &apos;x2014-RecordClasses-ExplicitConstructor&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     appl.Rational.java&#x0D;&#x0A;     appl.Result.java&#x0D;&#x0A;     appl.Tuple2.java&#x0D;&#x0A;     appl.Tuple3.java" description="Delete elements" element1="/src&lt;appl{Tuple3.java" element2="/src&lt;appl{Rational.java" element3="/src&lt;appl{Tuple2.java" element4="/src&lt;appl{Result.java" elements="4" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1604854825909" subPackages="false" version="1.0"/>
+</session>

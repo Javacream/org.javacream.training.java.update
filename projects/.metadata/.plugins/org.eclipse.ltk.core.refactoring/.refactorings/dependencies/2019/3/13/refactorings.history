@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 2 elements from project &apos;dependencies&apos;&#x0D;&#x0A;- Original project: &apos;dependencies&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     mathservlet&#x0D;&#x0A;     mathservlet.war" description="Delete elements" element1="apache-tomcat-9.0.17/webapps/mathservlet.war" element2="apache-tomcat-9.0.17/webapps/mathservlet" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="2" stamp="1553604695395" subPackages="false" version="1.0"/>
+</session>

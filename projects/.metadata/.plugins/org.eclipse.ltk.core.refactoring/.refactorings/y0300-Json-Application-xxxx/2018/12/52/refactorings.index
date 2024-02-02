@@ -1,0 +1,14 @@
+1546022280402	Rename package 'jn.util'
+1546022288152	Rename package 'jn.json.mapper'
+1546022295360	Rename package 'jn.json.mapper.impl'
+1546022303098	Rename package 'jn.json.mapper.test'
+1546022308931	Rename package 'jn.json.parser'
+1546022316427	Rename package 'jn.json.parser.impl'
+1546022326719	Rename package 'jn.json.parser.test'
+1546022333052	Rename package 'jn.json.scanner.impl'
+1546022350013	Rename package 'jn.json.scanner'
+1546022357146	Rename package 'jn.json.scanner.test'
+1546022363727	Rename package 'jn.json.value'
+1546022390866	Delete element
+1546022747539	Copy file
+1546098257970	Copy package

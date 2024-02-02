@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move package &apos;util&apos; to &apos;common/src&apos;&#x0D;&#x0A;- Original project: &apos;x0400-RecordClasses&apos;&#x0D;&#x0A;- Destination element: &apos;common/src&apos;&#x0D;&#x0A;- Original element: &apos;x0400-RecordClasses/src/util&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move package" destination="=common/src" element1="/src&lt;util" flags="589830" fragments="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1693038451858" version="1.0"/>
+</session>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="CleanDialogSettings">
+		<item key="DIALOG_WIDTH" value="500"/>
+		<item key="TOGGLE_SELECTED" value="false"/>
+		<item key="DIALOG_HEIGHT" value="389"/>
+		<item key="DIALOG_X_ORIGIN" value="634"/>
+		<item key="DIALOG_Y_ORIGIN" value="212"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="true"/>
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\Nowak\jn\seminar\java\java-9\projects-exercises"/>
+			<item value="C:\Users\Nowak\jn\seminar\java-ee\java-Spring-5\projects\x1010-JDBC-TransactionAnnotations"/>
+			<item value="C:\Users\Nowak\jn\seminar\java\java-9\projects-solutions"/>
+			<item value="C:\Users\Nowak\jn\seminar\java\java-9\projects-exercises\x01-Json"/>
+			<item value="C:\Users\Nowak\jn\seminar\java\tmp\java-9\project"/>
+			<item value="C:\Users\Nowak\jn\seminar\java\java-8\projects\x1001-Concurrent-CompletableFuture-Examples"/>
+			<item value="C:\Users\Nowak\jn\seminar\java\java-9-new-projects"/>
+			<item value="C:\Users\Nowak\jn\seminar\java\Java-CDI\projects"/>
+			<item value="C:\Users\Nowak\jn\seminar\java\java-9-neon\projects"/>
+			<item value="C:\Users\Nowak\jn\seminar\java\java-9\projects\shared"/>
+			<item value="C:\Users\Nowak\jn\seminar\java\java-9\projects\x0704-flow-implementingPublisherAndSubscription"/>
+			<item value="C:\Users\Nowak\jn\seminar\java\java-9\projects"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.ui.wizards.new.project"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.ui.Basic"/>
+			<item value="org.eclipse.buildship.ui.creationwizards"/>
+		</list>
+	</section>
+	<section name="BasicNewProjectResourceWizard">
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="569"/>
+		<item key="DIALOG_Y_ORIGIN" value="256"/>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
+</section>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;module-info.java&apos; to &apos;x0204-problems-missing-mod/src&apos;&#x0D;&#x0A;- Original project: &apos;x0301-jpms-exports-mod&apos;&#x0D;&#x0A;- Destination element: &apos;x0204-problems-missing-mod/src&apos;&#x0D;&#x0A;- Original element: &apos;module-info.java&apos;" description="Copy compilation unit" destination="=x0204-problems-missing-mod/src" element1="/src&lt;{module-info.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1554021995931" units="1" version="1.0"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete 4 resources" deleteContents="true" description="Delete 4 resources" element1="/x0404-reflection-ClassLoader-appl" element2="/x0404-reflection-ClassLoader-iface" element3="/x0404-reflection-ClassLoader-impl1" element4="/x0404-reflection-ClassLoader-impl2" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="4" stamp="1564397792792"/>
+</session>

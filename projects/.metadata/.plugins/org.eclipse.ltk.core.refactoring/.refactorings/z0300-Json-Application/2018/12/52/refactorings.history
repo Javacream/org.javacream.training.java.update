@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 3 elements from project &apos;z0306-Json-Application&apos;&#x0D;&#x0A;- Original project: &apos;z0306-Json-Application&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     domain.City.java&#x0D;&#x0A;     domain.Foo.java&#x0D;&#x0A;     domain.Publisher.java" description="Delete elements" element1="/src&lt;domain{Publisher.java" element2="/src&lt;domain{City.java" element3="/src&lt;domain{Foo.java" elements="3" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1546097901231" subPackages="false" version="1.0"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 8 elements from project &apos;z0200-JPA&apos;&#x0D;&#x0A;- Original project: &apos;z0200-JPA&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     derby.log&#x0D;&#x0A;     hibernate.log&#x0D;&#x0A;     z0201-JPA-Util.jar&#x0D;&#x0A;     z0202-JPA-Domain.jar&#x0D;&#x0A;     z0203-JPA-Daos.jar&#x0D;&#x0A;     z0204-JPA-Services.jar&#x0D;&#x0A;     z0205-JPA-Assembler.jar&#x0D;&#x0A;     z0206-JPA-Appl.jar" description="Delete elements" element1="z0206-JPA-Appl.jar" element2="hibernate.log" element3="z0205-JPA-Assembler.jar" element4="derby.log" element5="z0202-JPA-Domain.jar" element6="z0203-JPA-Daos.jar" element7="z0201-JPA-Util.jar" element8="z0204-JPA-Services.jar" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="8" stamp="1546351828066" subPackages="false" version="1.0"/>
+</session>

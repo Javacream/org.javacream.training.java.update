@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 4 elements from project &apos;x0204-problems-missing&apos;&#x0D;&#x0A;- Original project: &apos;x0204-problems-missing&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     appl.jar&#x0D;&#x0A;     mod.jar&#x0D;&#x0A;     modA.jar&#x0D;&#x0A;     modB.jar" description="Delete elements" element1="build/mod.jar" element2="build/modB.jar" element3="build/modA.jar" element4="build/appl.jar" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="4" stamp="1554021619009" subPackages="false" version="1.0"/>
+</session>

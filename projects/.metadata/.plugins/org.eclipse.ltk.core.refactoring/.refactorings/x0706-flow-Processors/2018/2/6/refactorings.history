@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move 2 elements to &apos;x0711-flow-a8/src/jj.utils&apos;&#x0D;&#x0A;- Original project: &apos;x0711-flow-a8&apos;&#x0D;&#x0A;- Destination element: &apos;x0711-flow-a8/src/jj.utils&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     jj.appl.MapProcessor.java&#x0D;&#x0A;     jj.appl.FilterProcessor.java&#x0D;&#x0A;- Update references to refactored element" description="Move compilation units" destination="/src&lt;jj.utils" element1="/src&lt;jj.appl{MapProcessor.java" element2="/src&lt;jj.appl{FilterProcessor.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1517851222288" units="2" version="1.0"/>
+</session>

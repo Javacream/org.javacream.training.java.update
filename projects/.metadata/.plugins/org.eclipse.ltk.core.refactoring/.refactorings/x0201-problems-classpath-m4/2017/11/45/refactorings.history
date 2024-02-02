@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;pack.Alpha&apos; to &apos;Beta&apos;&#x0D;&#x0A;- Original project: &apos;x0201-problems-classpath-m4&apos;&#x0D;&#x0A;- Original element: &apos;pack.Alpha&apos;&#x0D;&#x0A;- Renamed element: &apos;pack.Beta&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Alpha&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;pack{Alpha.java[Alpha" matchStrategy="1" name="Beta" qualified="false" references="true" similarDeclarations="false" stamp="1510477477068" textual="false" version="1.0"/>
+</session>

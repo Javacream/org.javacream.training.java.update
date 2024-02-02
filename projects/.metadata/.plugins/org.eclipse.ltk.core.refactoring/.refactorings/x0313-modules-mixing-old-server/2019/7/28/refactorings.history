@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 packages to &apos;x0390-modules-mixing-oldModOldAppl-Mod/src&apos;&#x0D;&#x0A;- Original project: &apos;x0313-modules-mixing-old-server&apos;&#x0D;&#x0A;- Destination element: &apos;x0390-modules-mixing-oldModOldAppl-Mod/src&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     x0313-modules-mixing-old-server/src/jj.mod.beta&#x0D;&#x0A;     x0313-modules-mixing-old-server/src/jj.mod.alpha" description="Copy packages" destination="=x0390-modules-mixing-oldModOldAppl-Mod/src" element1="/src&lt;jj.mod.beta" element2="/src&lt;jj.mod.alpha" flags="589830" fragments="2" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1563013597322" version="1.0"/>
+</session>

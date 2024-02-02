@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Watch.java&apos; to &apos;x1008-java11-HttpClient-WebSocket/src/client&apos;&#x0D;&#x0A;- Original project: &apos;shared&apos;&#x0D;&#x0A;- Destination element: &apos;x1008-java11-HttpClient-WebSocket/src/client&apos;&#x0D;&#x0A;- Original element: &apos;jj.watch.Watch.java&apos;" description="Copy compilation unit" destination="=x1008-java11-HttpClient-WebSocket/src&lt;client" element1="/src&lt;jj.watch{Watch.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1553620468405" units="1" version="1.0"/>
+</session>

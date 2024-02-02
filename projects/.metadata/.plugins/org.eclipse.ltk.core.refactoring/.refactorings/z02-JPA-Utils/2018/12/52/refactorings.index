@@ -1,0 +1,16 @@
+1545747330232	Delete element
+1545747505100	Delete element
+1545747577350	Delete element
+1545747679290	Rename type 'EntityManagerThreadLocal'
+1545747703238	Rename method 'getCurrentEntityManager'
+1545747713082	Rename method 'setEntityManager'
+1545747720219	Rename method 'removeEntityManager'
+1545750054835	Delete element
+1545750225974	Rename package 'jpa.util'
+1545750242561	Move compilation unit
+1545828402188	Delete element
+1545834069232	Copy compilation unit
+1545913885644	Delete element
+1545914305048	Rename package 'util.jpa'
+1545914314356	Rename package 'util.hibernate'
+1545914545804	Move compilation units

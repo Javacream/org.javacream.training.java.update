@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;x0709-flow-StdProcessor-Alternative&apos;&#x0D;&#x0A;- Original project: &apos;x0709-flow-StdProcessor-Alternative&apos;&#x0D;&#x0A;- Original element: &apos;jj.appl.MySubscriber.java&apos;" description="Delete element" element1="/src&lt;jj.appl{MySubscriber.java" elements="1" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1517852408711" subPackages="false" version="1.0"/>
+</session>

@@ -1,0 +1,14 @@
+1517332977282	Rename type 'Foo'
+1517333117529	Rename type 'State'
+1517333241155	Rename field 'state'
+1517333831607	Rename type 'ResourceHolder'
+1517379346805	Delete element
+1517379383672	Rename type 'GenericResourceDisposer'
+1517379390671	Rename type 'ResourceDisposer'
+1517379607501	Rename local variable 'holder'
+1517379624478	Rename local variable 'holder'
+1517421740745	Copy compilation unit
+1517421844523	Rename local variable 'foo'
+1517424661224	Rename type 'Resource'
+1517424726322	Rename type 'ResourceDisposer2'
+1517424743852	Delete element

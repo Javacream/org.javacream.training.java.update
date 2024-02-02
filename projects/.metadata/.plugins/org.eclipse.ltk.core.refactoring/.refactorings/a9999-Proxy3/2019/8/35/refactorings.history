@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;appl.MathServiceTraceProxy&apos; to &apos;MathServiceProxy&apos;&#x0D;&#x0A;- Original project: &apos;a9999-Proxy3&apos;&#x0D;&#x0A;- Original element: &apos;appl.MathServiceTraceProxy&apos;&#x0D;&#x0A;- Renamed element: &apos;appl.MathServiceProxy&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;MathServiceTraceProxy&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;appl{MathServiceTraceProxy.java[MathServiceTraceProxy" matchStrategy="1" name="MathServiceProxy" qualified="false" references="true" similarDeclarations="false" stamp="1567002754597" textual="false" version="1.0"/>
+</session>

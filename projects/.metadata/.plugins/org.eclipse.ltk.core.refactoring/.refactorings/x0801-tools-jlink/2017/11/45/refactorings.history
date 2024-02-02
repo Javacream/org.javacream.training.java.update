@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 3 elements from project &apos;x0801-tools-jlink&apos;&#x0D;&#x0A;- Original project: &apos;x0801-tools-jlink&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     image&#x0D;&#x0A;     appl.jar&#x0D;&#x0A;     mod.jar" description="Delete elements" element1="image" element2="appl.jar" element3="mod.jar" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="3" stamp="1509960555837" subPackages="false" version="1.0"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;WhileLoop.java&apos; to &apos;appl.WhileLoop.java&apos;&#x0D;&#x0A;- Original project: &apos;x2104-Sealed-NonSealedSubclasses&apos;&#x0D;&#x0A;- Destination element: &apos;appl.WhileLoop.java&apos;&#x0D;&#x0A;- Original element: &apos;appl.WhileLoop.java&apos;" description="Copy compilation unit" destination="/src&lt;appl{WhileLoop.java" element1="/src&lt;appl{WhileLoop.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1685620868264" units="1" version="1.0"/>
+</session>

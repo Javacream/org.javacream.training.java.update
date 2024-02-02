@@ -1,0 +1,7 @@
+1510038815834	Extract method 'inspect'
+1510067059887	Rename local variable 'stringLatin1A'
+1510067066474	Rename local variable 'stringLatin1B'
+1510067073012	Rename local variable 'stringUTF16A'
+1510067080582	Rename local variable 'stringUTF16B'
+1510067089160	Rename local variable 'arrayLatin1'
+1510067094226	Rename local variable 'arrayUTF16'

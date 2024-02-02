@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;runSimple.bat&apos; to &apos;x9003-InvokeDynamic&apos;&#x0D;&#x0A;- Original project: &apos;x9003-InvokeDynamic2&apos;&#x0D;&#x0A;- Destination element: &apos;x9003-InvokeDynamic&apos;&#x0D;&#x0A;- Original element: &apos;runSimple.bat&apos;" description="Copy file" destination="=x9003-InvokeDynamic" element1="runSimple.bat" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1605181582529" units="0" version="1.0"/>
+</session>

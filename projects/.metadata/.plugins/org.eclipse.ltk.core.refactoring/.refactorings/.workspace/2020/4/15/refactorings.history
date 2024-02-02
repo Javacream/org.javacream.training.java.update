@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete 8 resources" deleteContents="true" description="Delete 8 resources" element1="/x0313-jpms-mixingB-NewApplOldMod-Appl" element2="/x0313-jpms-mixingB-NewApplOldMod-Mod" element3="/x0313-jpms-mixingC-OldApplNewMod" element4="/x0313-jpms-mixingC-OldApplNewMod-Appl" element5="/x0313-jpms-mixingC-OldApplNewMod-Mod" element6="/x0313-jpms-mixingD-NewApplNewMod" element7="/x0313-jpms-mixingD-NewApplNewMod-Appl" element8="/x0313-jpms-mixingD-NewApplNewMod-Mod" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="8" stamp="1586706622776"/>
+</session>

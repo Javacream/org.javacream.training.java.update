@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 4 elements from project &apos;x0393-modules-mixing-newModNewAppl&apos;&#x0D;&#x0A;- Original project: &apos;x0393-modules-mixing-newModNewAppl&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     build-ModCP-ApplCP.xml&#x0D;&#x0A;     build-ModCP-ApplMP.xml&#x0D;&#x0A;     build-ModMP-ApplCP.xml&#x0D;&#x0A;     build-ModMP-ApplMP.xml" description="Delete elements" element1="build-ModMP-ApplCP.xml" element2="build-ModMP-ApplMP.xml" element3="build-ModCP-ApplCP.xml" element4="build-ModCP-ApplMP.xml" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="4" stamp="1563024094688" subPackages="false" version="1.0"/>
+</session>

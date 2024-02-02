@@ -1,0 +1,47 @@
+1605021004039	Rename type 'Foo'
+1605021072995	Rename local variable 'foo'
+1605030803295	Rename method 'sqrt'
+1605030868363	Rename local variable 'mhSqrt'
+1605030876009	Rename local variable 'mhAlpha'
+1605031523152	Rename local variable 'mtDoubleInt'
+1605031527705	Rename local variable 'mhFooAlpha'
+1605031921893	Rename type 'Appliation'
+1605032045130	Rename local variable 'mtDoubleInt'
+1605096048206	Delete element
+1605111367236	Rename compilation unit 'AbstractZZZ.java'
+1605111765155	Rename compilation unit 'Simple.java'
+1605112342385	Copy file
+1605112492451	Rename resource 'buildSimpleDynamcInvoker.bat'
+1605112767703	Delete element
+1605113430940	Copy file
+1605116566529	Copy file
+1605116806392	Move file
+1605116936158	Move file
+1605116954091	Delete element
+1605175936286	Delete element
+1605179596848	Delete element
+1605179600810	Delete elements
+1605179604152	Delete element
+1605179613486	Rename resource 'dynamic.bat'
+1605179620635	Rename resource 'simple.bat'
+1605180645538	Rename type 'SimpleDynamicLinkageExample'
+1605180816988	Rename type 'SimpleDynamicInvokerGenerator'
+1605181569774	Delete element
+1605188924974	Extract method 'generateFooInvokerConstructor'
+1605188955154	Extract method 'generateFooInvokerMain'
+1605188977863	Rename method 'dump'
+1605189047906	Rename local variable 'dynamicInvokerClassName'
+1605189390464	Rename method 'generateFooInvokerConstructor'
+1605189411695	Rename method 'generateParameterlessConstructor'
+1605190333811	Rename method 'bootstrapSayHello'
+1605190470622	Rename field 'callSite'
+1605190604090	Rename local variable 'mhSayHello'
+1605191276987	Rename local variable 'bootstrap'
+1605192954453	Extract method 'createCallSite'
+1605194020781	Rename local variable 'mhBeta'
+1605194477825	Rename local variable 'dynamicInvokerClassName'
+1605194501425	Rename local variable 'dynamicLinkageClassName'
+1605196331270	Rename method 'generateFooInvokerParameterlessConstructor'
+1605196338745	Rename method 'generateFooInvokerMain'
+1605204801994	Copy compilation unit
+1605205157208	Rename field 'fooClassName'

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 4 elements from project &apos;x2106-Sealed-InterfaceAndInnerImplementations&apos;&#x0D;&#x0A;- Original project: &apos;x2106-Sealed-InterfaceAndInnerImplementations&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     appl.Assignment.java&#x0D;&#x0A;     appl.Call.java&#x0D;&#x0A;     appl.Choice.java&#x0D;&#x0A;     appl.Loop.java" description="Delete elements" element1="/src&lt;appl{Assignment.java" element2="/src&lt;appl{Choice.java" element3="/src&lt;appl{Call.java" element4="/src&lt;appl{Loop.java" elements="4" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1604855157686" subPackages="false" version="1.0"/>
+</session>

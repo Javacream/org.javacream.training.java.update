@@ -1,0 +1,6 @@
+1517060562381	Delete element
+1517148191991	Rename local variable 'consumer'
+1517152450620	Rename field 'clients'
+1517152486846	Rename field 'ctl'
+1517152493846	Rename local variable 'expectedState'
+1517152499615	Rename local variable 'newValue'

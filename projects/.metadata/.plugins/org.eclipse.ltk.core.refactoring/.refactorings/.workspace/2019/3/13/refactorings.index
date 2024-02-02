@@ -1,0 +1,18 @@
+1553516408808	Delete 2 resources
+1553516446071	Rename resource 'x0317-jpms-requires-static'
+1553516457316	Rename Java project 'x0317-jpms-requires-static-appl'
+1553516464929	Rename Java project 'x0317-jpms-requires-static-mod'
+1553524114406	Delete resource 'x0313-modules-mixing-new-classpath-uses-new-classpath'
+1553528883141	Delete elements
+1553529994235	Rename Java project 'x1001-java11-zzz'
+1553530016930	Rename Java project 'x1002-java11-zzz'
+1553530079192	Rename Java project 'x1002-java11-JavaAsInterpreter'
+1553530087356	Rename Java project 'x1001-java11-VarWithinLambdas'
+1553596347432	Delete resource 'x1007-java11-HttpServer'
+1553599114119	Delete resource 'x1007-java11-HttpClientGET'
+1553599132502	Rename Java project 'x1007-java11-HttpClientPOST'
+1553681595070	Rename Java project 'x1008-java11-HttpClient-WebSocketServer'
+1553855652127	Rename resource 'x0204-problems-classpath'
+1553855663368	Rename Java project 'x0204-problems-classpath-appl'
+1553855669768	Rename Java project 'x0204-problems-classpath-mod'
+1553945892457	Rename resource 'z0004-Spring'

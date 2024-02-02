@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Switch.java&apos; to &apos;x2107-Sealed-InterfaceAndImplementations/src/appl&apos;&#x0D;&#x0A;- Original project: &apos;x2106-Sealed-InterfaceAndInnerImplementations&apos;&#x0D;&#x0A;- Destination element: &apos;x2107-Sealed-InterfaceAndImplementations/src/appl&apos;&#x0D;&#x0A;- Original element: &apos;appl.Switch.java&apos;" description="Copy compilation unit" destination="=x2107-Sealed-InterfaceAndImplementations/src&lt;appl" element1="/src&lt;appl{Switch.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1685621506161" units="1" version="1.0"/>
+</session>

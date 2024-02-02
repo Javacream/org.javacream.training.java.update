@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;build.xml&apos; to &apos;a0102-jpms-opens&apos;&#x0D;&#x0A;- Original project: &apos;a0101-jpms-exports&apos;&#x0D;&#x0A;- Destination element: &apos;a0102-jpms-opens&apos;&#x0D;&#x0A;- Original element: &apos;build.xml&apos;" description="Copy file" element1="build.xml" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1546192349093" target="/a0102-jpms-opens" units="0" version="1.0"/>
+</session>

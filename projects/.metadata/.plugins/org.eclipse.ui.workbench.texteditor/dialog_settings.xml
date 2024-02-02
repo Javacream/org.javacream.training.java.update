@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.GotoLineAction$GotoLineDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="647"/>
+		<item key="DIALOG_Y_ORIGIN" value="352"/>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="isRegEx" value="false"/>
+		<item key="selection" value="@since"/>
+		<item key="casesensitive" value="true"/>
+		<item key="incremental" value="false"/>
+		<item key="wrap" value="true"/>
+		<item key="wholeword" value="true"/>
+		<list key="findhistory">
+			<item value="@since"/>
+			<item value="since"/>
+			<item value="BinaryOperator"/>
+			<item value="ClassDesc"/>
+			<item value="bootstrapDynamic"/>
+			<item value="@PolymorphicSignature"/>
+			<item value="),"/>
+			<item value="() -&gt; "/>
+			<item value="Foox"/>
+			<item value="y"/>
+			<item value="x"/>
+			<item value="int"/>
+			<item value="jdk"/>
+			<item value="since 10"/>
+			<item value="since 11"/>
+		</list>
+		<list key="replacehistory">
+			<item value="bootstrapSayHello"/>
+			<item value=");"/>
+			<item value=";"/>
+			<item value=""/>
+			<item value="Foo"/>
+			<item value="v1"/>
+			<item value="v0"/>
+			<item value="double"/>
+			<item value="modulepath"/>
+			<item value="classpath"/>
+			<item value="${basedir}-@{name}/tmp"/>
+			<item value="Arrays.asList"/>
+			<item value="modB"/>
+			<item value="modA"/>
+			<item value="paths"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_WIDTH" value="511"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+		<item key="DIALOG_HEIGHT" value="523"/>
+		<item key="DIALOG_X_ORIGIN" value="965"/>
+		<item key="DIALOG_Y_ORIGIN" value="446"/>
+	</section>
+</section>
